@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="AirBooking" uuid="b66d3768-7a40-4ef7-8b67-06ce994d8560">
+      <secret-storage>master_key</secret-storage>
+      <user-name>airbookinguser</user-name>
+      <introspection-scope>airbooking:</introspection-scope>
+      <resolve-scope>airbooking:</resolve-scope>
+    </data-source>
+  </component>
+</project>
